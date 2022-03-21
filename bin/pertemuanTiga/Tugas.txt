@@ -1,0 +1,10 @@
+Buatlah class abstract Geometri yang memiliki dua buah abstract method yaitu 
+hitungKeliling() dan hitungLuas(). Buatlah subclass-subclass dari class 
+Geometri sebagai berikut:
+a. Class SegiEmpat
+b. Class SegiTiga
+c. Class Lingkaran
+Masing-masing subclass memliki method tambahan untuk mengakses, mengubah 
+dan menampilkan atribut yang dimilikinya.
+Kemudian buatlah sebuah class untuk menguji class-class yang dibuat di atas. 
+Gunakanlah polimorfisme dalam class penguji ini.
